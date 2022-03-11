@@ -3,6 +3,7 @@ import java.util.*;
 public class tarea1_ipc1 {
 
 
+    //Usando numeros aleatorios
     public static void main(String[] args) {
 
         
