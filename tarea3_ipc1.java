@@ -64,5 +64,11 @@ public class tarea3_ipc1 {
         
         tarea3_ipc1 ob =  new tarea3_ipc1();
         ob.quicksort(numeros);
+
+        int i = 0;
+        while(i < numeros.length){
+            System.out.println(numeros[i]);
+            i++;
+        }
     }
 }
